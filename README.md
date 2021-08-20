@@ -29,7 +29,7 @@ yarn lint
 vue ui
 ```
 
-### Deployment via Netlify
+### Deployment via Render
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
