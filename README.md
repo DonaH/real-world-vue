@@ -3,6 +3,7 @@
 ## Project setup
 ```
 yarn install
+
 ```
 
 ### Compiles and hot-reloads for development
@@ -18,6 +19,11 @@ yarn build
 ### Lints and fixes files
 ```
 yarn lint
+```
+
+### View or install dependencies
+```
+vue ui
 ```
 
 ### Customize configuration
