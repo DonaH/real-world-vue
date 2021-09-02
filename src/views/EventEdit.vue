@@ -14,8 +14,7 @@
         >Edit</router-link
       >
     </div>
-    <p>{{ event.time }} on {{ event.date }} @ {{ event.location }}</p>
-    <p>{{ event.description }}</p>
+    <p>Edit the event here</p>
   </div>
 </template>
 
